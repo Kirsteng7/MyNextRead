@@ -1,0 +1,2 @@
+# MyNextRead
+GitHub Pages
